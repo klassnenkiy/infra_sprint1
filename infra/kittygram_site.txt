@@ -1,0 +1,5 @@
+IP: 158.160.16.215;
+name_taski: https://klassnenkiy.ddns.net/ ;
+name_kittygram: https://klassnenkiy.didns.ru/ ;
+login: yc-user;
+password: qwerty12345;
